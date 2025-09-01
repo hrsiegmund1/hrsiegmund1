@@ -1,4 +1,4 @@
-# Hi there, I'm Hannah Siegmund 👋
+# Hi there, I'm Hannah Siegmund 👋 👯 👨‍💻
 
 I'm a **Senior at James Madison University** studying **Communication Studies** with a concentration in **Public Relations** and a **Digital Studies minor** from **Salisbury, Maryland**.
 
