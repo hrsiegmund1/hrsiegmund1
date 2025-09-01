@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Hannah Siegmund 👋
 
-<!--
-**hrsiegmund1/hrsiegmund1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior at James Madison University** studying **Communication Studies** with a concentration in **Public Relations** and a **Digital Studies minor** from **Salisbury, Maryland**.
 
-Here are some ideas to get you started:
+I’m passionate about **public relations, brand marketing, and content strategy**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌐 This summer I completed a **Marketing & Brand Strategy internship at TidalHealth**, creating social media content and digital assets.  
+- 💻 Skilled in **social media management, content creation, and website portfolio development**.    
+- 🎨 Love **visual communication** and creative projects like **content creation and graphic design**. 
+## Connect with Me
+- [LinkedIn](www.linkedin.com/in/hannah-siegmund-8652102b2)  
+- [Portfolio Website](https://sites.google.com/view/hannahsiegmundinternship/home))  
