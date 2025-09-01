@@ -10,4 +10,4 @@ I’m passionate about **public relations, brand marketing, and content strategy
 - 🎨 Love **visual communication** and creative projects like **content creation and graphic design**. 
 ## Connect with Me
 - [LinkedIn](www.linkedin.com/in/hannah-siegmund-8652102b2)  
-- [Portfolio Website](https://sites.google.com/view/hannahsiegmundinternship/home))  
+- [Portfolio Website](https://sites.google.com/view/hannahsiegmundinternship/home)
