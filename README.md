@@ -8,6 +8,6 @@ I’m passionate about **public relations, brand marketing, and content strategy
 - 🌐 This summer I completed a **Marketing & Brand Strategy internship at TidalHealth**, creating social media content and digital assets.  
 - 💻 Skilled in **social media management, content creation, and website portfolio development**.    
 - 🎨 Love **visual communication** and creative projects like **content creation and graphic design**. 
-## Connect with Me
+## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/hannah-siegmund-8652102b2/)  
 - [Portfolio Website](https://sites.google.com/view/hannahsiegmundinternship/home)
