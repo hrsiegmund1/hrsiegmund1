@@ -4,7 +4,7 @@ I'm a **Senior at James Madison University** studying **Communication Studies** 
 
 I’m passionate about **public relations, brand marketing, and content strategy**.  
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub Logo")
+![GitHub Logo](images\github-logo.png)
 
 ## About Me
 - 🌐 This summer I completed a **Marketing & Brand Strategy internship at TidalHealth**, creating social media content and digital assets.  
